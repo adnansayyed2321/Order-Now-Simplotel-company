@@ -1,6 +1,6 @@
 Assignment of Simplotel company for the Position of Front End Web Developer.
 
-Publish link of OrderNow Web Application :- ordernowsayyed.ccbp.tech
+Publish link of OrderNow Web Application :- <a href="ordernowsayyed.ccbp.tech">ordernowsayyed.ccbp.tech</a>
 
 The Design Files according to the responsiveness
 <br/>
